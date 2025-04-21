@@ -67,7 +67,7 @@ function add_task() {
 </script>
 <template>
 <header>
-  <h1>TODO Website</h1>
+  <h1>Just a normal TODO website</h1>
   <span>Create a new TODO task</span>
   <div>
     <input type="text" v-model="new_task_title" placeholder="Enter task name"/>
