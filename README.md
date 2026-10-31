@@ -10,7 +10,7 @@ Focused on creating a clean, galaxy theme. Making task management easier, more c
 
 It's that simple.
 
-## This project was built using the following technologies:
+## This project was built using:
 
 - **HTML** – For structuring the web application.
 - **CSS** – For styling and creating the galaxy-inspired interface.
