@@ -1,2 +1,22 @@
-A simple TODO application designed to help you organize tasks, manage daily activities, and stay productive.
-I built with a clean interface with a galaxy theme to make keeping track of your to-do list easy and convenient.
+# TODO App
+
+A simple TODO website I designed to help you organize tasks and manage daily activities.
+
+Focused on creating a clean, galaxy theme. Making task management easier, more convenient, and enjoyable.
+
+## Features
+- **Name** - Naming the task.
+- **Add** – Add tasks.
+- **Remove** – Remove tasks.
+
+It's that simple.
+
+## Technologies Used
+
+This project was built using the following technologies:
+
+- **HTML** – For structuring the web application.
+- **CSS** – For styling and creating the galaxy-inspired interface.
+- **JavaScript** – For application functionality and interactivity.
+- **Vue.js** – For building the user interface and managing application elements.
+- **Vite** – For a fast development environment and build process.
