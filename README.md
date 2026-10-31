@@ -1,7 +1,6 @@
 # TODO App
 
-A simple TODO website I designed to help you organize tasks and manage daily activities.
-
+A simple TODO website I designed to help you organize tasks and manage daily activities.</br>
 Focused on creating a clean, galaxy theme. Making task management easier, more convenient, and enjoyable.
 
 ## Features
@@ -11,9 +10,7 @@ Focused on creating a clean, galaxy theme. Making task management easier, more c
 
 It's that simple.
 
-## Technologies Used
-
-This project was built using the following technologies:
+## This project was built using the following technologies:
 
 - **HTML** – For structuring the web application.
 - **CSS** – For styling and creating the galaxy-inspired interface.
